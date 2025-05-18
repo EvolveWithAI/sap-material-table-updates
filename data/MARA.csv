@@ -1,0 +1,11 @@
+﻿MANDT,MATNR,ERSDA,ERNAM,LAEDA,AENAM,VPSTA,PSTAT,LVORM,MTART,MBRSH,MATKL,BISMT,MEINS,BSTME,ZEINR,ZEIAR,ZEIVR,ZEIFO,AESZN,BLATT,BLANZ,FERTH,FORMT,GROES,WRKST,NORMT,LABOR,EKWSL,BRGEW,NTGEW,GEWEI,VOLUM,VOLEH,BEHVO,RAUBE,TEMPB,DISST,TRAGR,STOFF,SPART,KUNNR,EANNR,WESCH,BWVOR,BWSCL,SAISO,ETIAR,ETIFO,ENTAR,EAN11,NUMTP,LAENG,BREIT,HOEHE,MEABM,PRDHA,AEKLK,CADKZ,QMPUR,ERGEW,ERGEI,ERVOL,ERVOE,GEWTO,VOLTO,VABME,KZREV,KZKFG,XCHPF,VHART,FUELG,STFAK,MAGRV,BEGRU,DATAB,LIQDT,SAISJ,PLGTP
+100,A001,01.01.2025,VALY,31.03.2025,RALY,,,X,M11,,M01,,,KG,,,,,,,,,,,,,,,,,,,,,,,,,AXNT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+100,A002,01.01.2025,VALY,31.03.2025,RALY,,,,M12,,M02,,,KG,,,,,,,,,,,,,,,,,,,,,,,,,BXNT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+100,A003,01.01.2025,VALY,31.03.2025,RALY,,,,M13,,M01,,,KG,,,,,,,,,,,,,,,,,,,,,,,,,CXNT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+100,A004,01.02.2025,VALY,31.03.2025,RALY,,,X,M11,,M02,,,KG,,,,,,,,,,,,,,,,,,,,,,,,,DXNT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+100,A005,01.02.2025,VALY,31.03.2025,RALY,,,,M12,,M01,,,KG,,,,,,,,,,,,,,,,,,,,,,,,,AXNT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+100,A006,01.02.2025,VALY,31.03.2025,RALY,,,,M13,,M02,,,KG,,,,,,,,,,,,,,,,,,,,,,,,,BXNT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+100,A007,01.03.2025,VALY,31.03.2025,RALY,,,,M11,,M01,,,KG,,,,,,,,,,,,,,,,,,,,,,,,,CXNT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+100,A008,01.03.2025,VALY,31.03.2025,RALY,,,X,M12,,M02,,,KG,,,,,,,,,,,,,,,,,,,,,,,,,DXNT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+100,A009,01.03.2025,VALY,31.03.2025,RALY,,,,M13,,M02,,,KG,,,,,,,,,,,,,,,,,,,,,,,,,AXNT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+100,A010,01.03.2025,VALY,31.03.2025,RALY,,,X,M11,,M01,,,KG,,,,,,,,,,,,,,,,,,,,,,,,,BXNT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

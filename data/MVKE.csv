@@ -1,0 +1,11 @@
+﻿MANDT,MATNR,VKORG,VTWEG,LVORM,VERSG,BONUS,PROVG,SKTOF,VMSTA,VMSTD,AUMNG,LFMNG,EFMNG,SCMNG,SCHME,VRKME,MTPOS,DWERK,PRODH,PMATN,KONDM,KTGRM,MVGR1,MVGR2,MVGR3,MVGR4,MVGR5,SSTUF,PFLKS,LSTFL,LSTVZ,LSTAK,LDVFL,LDBFL,LDVZL,LDBZL,VDVFL,VDBFL,VDVZL,VDBZL,PRAT1,PRAT2,PRAT3,PRAT4,PRAT5,PRAT6,PRAT7,PRAT8,PRAT9,PRATA,RDPRF,MEGRU,LFMAX,RJART,PBIND,VAVME,MATKC,PVMSO,PLGTP
+100,A001,A01,A11,X,,,,,,,10,,,KG,KG,100,E,A001,,,A0,,M01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+100,A002,A02,A12,,,,,,,,20,,,KG,KG,200,F,A002,,,A1,,M02,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+100,A003,A01,A12,,,,,,,,30,,,KG,KG,300,E,A001,,,A0,,M01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+100,A004,A02,A11,X,,,,,,,20,,,KG,KG,100,F,A002,,,A1,,M02,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+100,A005,A01,A11,,,,,,,,10,,,KG,KG,100,E,A001,,,A0,,M01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+100,A006,A01,A13,,,,,,,,10,,,KG,KG,200,F,A002,,,A1,,M02,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+100,A007,A02,A12,,,,,,,,30,,,KG,KG,100,E,A001,,,A0,,M01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+100,A008,A02,A13,X,,,,,,,20,,,KG,KG,200,F,A002,,,A1,,M02,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+100,A009,A02,A12,,,,,,,,30,,,KG,KG,300,E,A001,,,A0,,M02,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+100,A010,A02,A11,X,,,,,,,20,,,KG,KG,300,F,A002,,,A1,,M01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
