@@ -1,1 +1,4 @@
-
+We are updating the SAP Material Master tables - MARA and MVKE. The input tables of MARA and MVKE will be provided. Please make changes to these tables and provide us the outputs. 
+Updates in MARA table - Please remove the rows from MARA table where the field STOFF (Hazardous Material Number) is 'AXNT'.
+Updates in MVKE table - Please remove the rows from MVKE table where field LVORM is marked as 'X'.
+Please return both the tables - MARA and MVKE separately.
